@@ -1,0 +1,24 @@
+Nome: Gabriel Lima Gonçalves Data: 13/02/2026
+
+Análise e desenvolvimento de sistemas – Programação Orientada a Objetos
+Prof. Norton Barros Glaser
+
+Atividade Aula 01
+
+1.O que é programação orientada a objetos?
+2.Quais as vantagens em utilizar POO em relação a programação estruturada?
+3.Defina o conceito de objeto no paradigma POO
+4.Explique os 4 principais fundamentos do paradigma POO
+Responder esse post com link da resolução no repositório do GitHub
+
+A Programação Orientada a Objetos (POO) é um paradigma de desenvolvimento de software amplamente utilizado em linguagens como C#, Java, Python e C++. É o modelo mais popular atualmente, evoluindo principalmente em segurança e reaproveitamento de código.
+
+A POO organiza sistemas em classes com responsabilidades bem definidas, facilitando manutenção, escalabilidade e reutilização de código. Permite modelar entidades do mundo real como objetos, tornando o código mais modular e organizado.
+
+Um objeto é uma instância de uma classe, possuindo atributos (estado) e métodos (comportamentos) que representam características e ações.
+
+Os quatro pilares da POO são:
+Encapsulamento: protege os dados, expondo apenas o necessário.
+Herança: permite reutilização de código entre classes.
+Polimorfismo: possibilita diferentes comportamentos para o mesmo método.
+Abstração: representa apenas os aspectos essenciais de um objeto.
