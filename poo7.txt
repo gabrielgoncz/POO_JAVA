@@ -1,0 +1,16 @@
+poo7
+1-Responda a pergunta, o que e polimorfismo e qual sua utilização?
+2-Utilizando a correção da atividade poo06, implemente nas subclasses(Recepcionista, Medico, Consulta, Receita e Exame)  os metodos refatorados utilizandos polimorfismo adicionando carcteristicas das subclasses.
+
+
+
+https://professor.norton.net.br/wp-content/uploads/2020/03/poo06-1.png
+
+---------------------------------------------------------------------
+
+1. Polimorfismo é um pilar da Programação Orientada a Objetos (POO) que permite que classes derivadas de uma classe base executem métodos com a mesma assinatura, mas comportamentos diferentes. Do grego "muitas formas", ele possibilita que objetos diferentes respondam ao mesmo comando de maneiras únicas, aumentando a flexibilidade e reutilização do código.
+Com o Polimorfismo, os mesmos atributos e objetos podem ser utilizados em objetos distintos, porém, com implementações lógicas diferentes.
+Por exemplo: podemos assumir que uma bola de futebol e uma camisa da seleção brasileira são artigos esportivos, mais que o cálculo deles em uma venda é calculado de formas diferentes.
+Outro exemplo: podemos dizer que uma classe chamada Vendedor e outra chamada Diretor podem ter como base uma classe chamada Pessoa, com um método chamado CalcularVendas. Se este método (definido na classe base) se comportar de maneira diferente para as chamadas feitas a partir de uma instância de Vendedor e para as chamadas feitas a partir de uma instância de Diretor, ele será considerado um método polimórfico, ou seja, um método de várias formas.
+
+2. https://github.com/gabrielgoncz/POO_JAVA
