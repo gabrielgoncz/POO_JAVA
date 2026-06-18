@@ -1,0 +1,7 @@
+Herança: `Pessoa` (abstrata) → `Leitor`, `Funcionario`; `Emprestimo` → `EmprestimoEstudante`.
+Polimorfismo: `getTipoDescricao()`, `getIdentificador()` em `Pessoa` e `calcularMulta()` em `Emprestimo`.
+Agregação: `Obra` contém `List<Copia>`.
+Associação: `Emprestimo` associa `Leitor`, `Copia` e `Funcionario`.
+DAO: `GenericDAO<T, ID>` com implementações JDBC para cada entidade.
+Tratamento de exceções: feito na camada de UI (`Ui.runCatching`) — DAO/modelo
+  apenas lançam `DAOException`, `RegraNegocioException` ou `IllegalArgumentException`.
